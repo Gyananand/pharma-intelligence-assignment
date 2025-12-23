@@ -1,0 +1,82 @@
+{
+  "identity": {
+    "company_name": "Abbott",
+    "website_url": "https://www.abbottnutrition.com/",
+    "tagline": "Abbott develops innovative and science-based nutrition products that provide nutritional support for patient growth, recovery, and sustainability."
+  },
+  "business_summary": {
+    "what_they_do": null,
+    "primary_offerings": [],
+    "target_segments": []
+  },
+  "evidence": {
+    "key_pages_found": {
+      "contact": [
+        "https://www.abbottnutrition.com/contact-us"
+      ],
+      "products": [
+        "https://www.abbottnutrition.com/our-products",
+        "https://www.abbottnutrition.com/product-guides",
+        "https://www.abbottnutrition.com/pediatric-specialty-nutrition",
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/product-guides/2025%20Abbott%20Nutrition%20Adult%20Product%20Reference.pdf"
+      ],
+      "research": [
+        "https://www.abbottnutrition.com/clinical-resources",
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/footer/Investigator%20Sponsored%20Studies.pdf"
+      ]
+    },
+    "social_links": {}
+  },
+  "contact_location": {
+    "emails": [
+      "name@server.com"
+    ],
+    "phones": [
+      "800-227-5767",
+      "800) 227-5767 ",
+      "800) 551-5838 "
+    ],
+    "address": null,
+    "contact_page": "https://www.abbottnutrition.com/contact-us"
+  },
+  "team_hiring": {
+    "careers_page": null
+  },
+  "metadata": {
+    "timestamp": "2025-12-23T08:23:08.404409",
+    "pages_crawled": [
+      "https://www.abbottnutrition.com/",
+      "https://www.abbottnutrition.com/contact-us",
+      "https://www.abbottnutrition.com/our-products",
+      "https://www.abbottnutrition.com/product-guides",
+      "https://www.abbottnutrition.com/clinical-resources",
+      "https://www.abbottnutrition.com/pediatric-specialty-nutrition"
+    ],
+    "errors": [
+      {
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/footer/investigator%20sponsored%20studies.pdf": "Status code 404"
+      },
+      {
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/footer/investigator%20sponsored%20studies.pdf": "Status code 404"
+      },
+      {
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/footer/investigator%20sponsored%20studies.pdf": "Status code 404"
+      },
+      {
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/product-guides/2025%20abbott%20nutrition%20adult%20product%20reference.pdf": "Status code 404"
+      },
+      {
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/footer/investigator%20sponsored%20studies.pdf": "Status code 404"
+      },
+      {
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/footer/investigator%20sponsored%20studies.pdf": "Status code 404"
+      },
+      {
+        "https://www.abbottnutrition.com/content/dam/an/abbottnutrition/pdf/footer/investigator%20sponsored%20studies.pdf": "Status code 404"
+      }
+    ],
+    "notes": [
+      "Business summary could not be reliably extracted without heuristic inference."
+    ]
+  }
+}

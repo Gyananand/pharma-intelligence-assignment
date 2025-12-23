@@ -1,0 +1,92 @@
+{
+  "identity": {
+    "company_name": "BioGaia",
+    "website_url": "https://www.biogaia.com/",
+    "tagline": "Each BioGaia product contain unique Lactobacillus reuteri strains that provide their own distinct health benefits. Learn more about BioGaia Probiotics!"
+  },
+  "business_summary": {
+    "what_they_do": null,
+    "primary_offerings": [],
+    "target_segments": []
+  },
+  "evidence": {
+    "key_pages_found": {
+      "products": [
+        "https://www.biogaia.com/collections/all",
+        "https://www.biogaia.com/products/protectis-mum",
+        "https://www.biogaia.com/products/osfortis",
+        "https://www.biogaia.com/products/biogaia-gastrus%C2%AE-probiotic-capsules",
+        "https://www.biogaia.com/products/biogaia-gastrus%c2%ae-probiotic-capsules",
+        "https://www.biogaia.com/products/gastrus",
+        "https://www.biogaia.com/products/prodentis",
+        "https://www.biogaia.com/products/biogaia-prodentis%C2%AE-probiotic-lozenges-apple",
+        "https://www.biogaia.com/products/biogaia-prodentis%c2%ae-probiotic-lozenges-apple",
+        "https://www.biogaia.com/products/protectis-chewable-tablets",
+        "https://www.biogaia.com/products/immune-active-kids",
+        "https://www.biogaia.com/products/prodentis-kids",
+        "https://www.biogaia.com/products/protectis-baby-drops",
+        "https://www.biogaia.com/products/protectis-baby-drops-vitamin-d",
+        "https://www.biogaia.com/products/immune-active-baby",
+        "https://www.biogaia.com/products/biogaia-nurture-grow-probiotic-drops",
+        "https://www.biogaia.com/products/aldermis-baby",
+        "https://www.biogaia.com/products/biogaia-baby-essentials-bundle",
+        "https://www.biogaia.com/products/prodentis-mint-3-pack-bundle",
+        "https://www.biogaia.com/products/elactia",
+        "https://www.biogaia.com/products/prodentis-drops",
+        "https://www.biogaia.com/products/immune-active",
+        "https://www.biogaia.com/products/biogaia-prodentis%C2%AE-fresh-breath-probiotic-lozenges-with-zinc",
+        "https://www.biogaia.com/products/biogaia-prodentis%c2%ae-fresh-breath-probiotic-lozenges-with-zinc"
+      ],
+      "research": [
+        "https://www.biogaia.com/pages/science-and-research",
+        "https://www.biogaia.com/pages/experts",
+        "https://www.biogaia.com/pages/probiotic-innovation"
+      ],
+      "about": [
+        "https://www.biogaia.com/pages/our-story"
+      ],
+      "contact": [
+        "https://www.biogaia.com/pages/contact-us"
+      ]
+    },
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/clare-o%E2%80%99brien-50a509207/?originalSubdomain=uk",
+      "twitter": "https://www.smilox.com/biogaia-prodentis-kids-probiotic.cfm?source=froogle&utm_source=google&utm_medium=ps&utm_content=BioGaia%20Prodentis%20Kids&utm_campaign=Specialty%20Oral%20Care_Tools%20%26%20Accessories"
+    }
+  },
+  "contact_location": {
+    "emails": [],
+    "phones": [
+      "17938 ( "
+    ],
+    "address": null,
+    "contact_page": "https://www.biogaia.com/pages/contact-us"
+  },
+  "team_hiring": {
+    "careers_page": null
+  },
+  "metadata": {
+    "timestamp": "2025-12-23T08:30:44.762646",
+    "pages_crawled": [
+      "https://www.biogaia.com/",
+      "https://www.biogaia.com/collections/all",
+      "https://www.biogaia.com/products/protectis-mum",
+      "https://www.biogaia.com/products/osfortis",
+      "https://www.biogaia.com/pages/science-and-research",
+      "https://www.biogaia.com/pages/our-story",
+      "https://www.biogaia.com/pages/experts",
+      "https://www.biogaia.com/products/biogaia-gastrus%c2%ae-probiotic-capsules",
+      "https://www.biogaia.com/products/gastrus",
+      "https://www.biogaia.com/products/prodentis",
+      "https://www.biogaia.com/products/biogaia-prodentis%c2%ae-probiotic-lozenges-apple",
+      "https://www.biogaia.com/products/protectis-chewable-tablets",
+      "https://www.biogaia.com/products/immune-active-kids",
+      "https://www.biogaia.com/products/prodentis-kids",
+      "https://www.biogaia.com/products/protectis-baby-drops"
+    ],
+    "errors": [],
+    "notes": [
+      "Business summary could not be reliably extracted without heuristic inference."
+    ]
+  }
+}
