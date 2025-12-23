@@ -111,5 +111,3 @@ Enter company website URL: https://www.example.com
 ```
 
 The output will be saved automatically as a JSON file inside the `outputs/` folder.
-
-```
